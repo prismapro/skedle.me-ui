@@ -1,0 +1,2 @@
+import{S as o,B as r,T as t}from"./index-f4f968a3.js";import{a,j as s}from"./jsx-runtime-e6578be3.js";import"./index-a4ee69ce.js";import"./iframe-7b12098d.js";import"./index-0e36787f.js";const p={title:"Form/Switch",component:o,args:{},decorators:[e=>a(r,{as:"label",css:{display:"flex",flexDirection:"rows",gap:"$2"},children:[s(t,{size:"sm",children:"Accept"}),e(),s(t,{size:"sm",children:"I do not accept"})]})]},d={},x=["Default"];export{d as Default,x as __namedExportsOrder,p as default};
+//# sourceMappingURL=Switch.stories-e5668076.js.map

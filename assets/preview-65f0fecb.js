@@ -1,0 +1,2 @@
+import{t as o}from"./index-47cdb03f.js";import"./iframe-7b12098d.js";import"./es.map.constructor-0adee5d5.js";import"./es.number.to-fixed-0e511e0c.js";import"./index-a4ee69ce.js";const m={actions:{argTypesRegex:"^on[A-Z].*"},controls:{matchers:{color:/(background|color)$/i,date:/Date$/}},docs:{theme:o.dark},backgrounds:{default:"custom-background",values:[{name:"custom-background",value:"#202024"}]}};export{m as parameters};
+//# sourceMappingURL=preview-65f0fecb.js.map
