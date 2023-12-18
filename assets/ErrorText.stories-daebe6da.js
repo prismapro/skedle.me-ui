@@ -1,0 +1,2 @@
+import{E as r}from"./index-69b869a1.js";import"./index-6641fb6c.js";import"./iframe-465a761c.js";import"./index-f9980666.js";import"./jsx-runtime-c82c58ad.js";const m={title:"Form/ErrorText",component:r,args:{children:"The name field is required.",size:"sm"},argTypes:{size:{options:["xxs","xs","sm","md","lg","xl"],control:{type:"inline-radio"}}}},n={},p=["Default"];export{n as Default,p as __namedExportsOrder,m as default};
+//# sourceMappingURL=ErrorText.stories-daebe6da.js.map
